@@ -14,3 +14,9 @@ body {
     margin: auto;
     overflow: hidden;
 }
+.hero {
+    background: #50b3a2;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
